@@ -1,7 +1,7 @@
 # 📈 TradingJournal
 
 Ein persönliches Trading-Journal, um Trades zu dokumentieren, Strategien zu testen und die Performance im Blick zu behalten.  
-Das Projekt besteht aus einer **ASP.NET Core Web API** (Backend) und einem **React-Frontend**.
+Das Projekt besteht aus einer **ASP.NET Core Web API** (Backend) und einem **Angular-Frontend**.
 
 ---
 
