@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZAfqZ20RcfGJFUpCO9943+lWaTQlVgU7FN9CSgM+8dI=",
+  "Source": "TradingJournal.Api",
+  "BasePath": "_content/TradingJournal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

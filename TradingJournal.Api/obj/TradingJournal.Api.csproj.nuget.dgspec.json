@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {}
+  },
+  "projects": {
+    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
+        "projectName": "TradingJournal.Api",
+        "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
+        "packagesPath": "/home/DarrylParker/.nuget/packages/",
+        "outputPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/DarrylParker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
+                "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+        "projectName": "TradingJournal.Data",
+        "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+        "packagesPath": "/home/DarrylParker/.nuget/packages/",
+        "outputPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/DarrylParker/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.119/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
