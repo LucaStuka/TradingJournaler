@@ -19,8 +19,4 @@ Das Projekt besteht aus einer **ASP.NET Core Web API** (Backend) und einem **Ang
 - [Entity Framework Core 9](https://learn.microsoft.com/ef/)  
 - [SQLite](https://www.sqlite.org/)  
 - [Swagger / Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)  
-- React + Vite + Tailwind (Frontend, optional)
-
----
-
-## 📂 Projektstruktur
+- Angular + Vite + Tailwind (Frontend, optional)
