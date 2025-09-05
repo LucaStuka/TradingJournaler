@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {}
+    "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {}
   },
   "projects": {
-    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {
+    "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
+        "projectUniqueName": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
         "projectName": "TradingJournal.Api",
-        "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
+        "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
         "packagesPath": "/home/DarrylParker/.nuget/packages/",
-        "outputPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Api/obj/",
+        "outputPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/DarrylParker/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
-                "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
+              "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
+                "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
+    "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+        "projectUniqueName": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
         "projectName": "TradingJournal.Data",
-        "projectPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+        "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
         "packagesPath": "/home/DarrylParker/.nuget/packages/",
-        "outputPath": "/home/DarrylParker/Documents/Codes/TradingJournal/TradingJournal.Data/obj/",
+        "outputPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/DarrylParker/.nuget/NuGet/NuGet.Config"

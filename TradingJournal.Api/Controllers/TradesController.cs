@@ -28,5 +28,13 @@ namespace TradingJournal.Api.Controllers
             _context.SaveChanges();
             return Ok(trade);
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteTrade(int id)
+        {
+            return NoContent();
+        }
     }
 }
+
+// Wir brauchen Get, Put, Post, Delete
