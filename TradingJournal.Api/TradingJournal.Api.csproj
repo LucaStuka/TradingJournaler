@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TradingJournal.Data\TradingJournal.Data.csproj" />
+    <ProjectReference Include="..\TradingJournal.DB\TradingJournal.DB.csproj" />
   </ItemGroup>
 
 </Project>

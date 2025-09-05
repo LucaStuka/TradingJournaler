@@ -1553,6 +1553,16 @@
         "runtime": {
           "bin/placeholder/TradingJournal.Data.dll": {}
         }
+      },
+      "TradingJournal.DB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TradingJournal.DB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradingJournal.DB.dll": {}
+        }
       }
     }
   },
@@ -3821,6 +3831,11 @@
       "type": "project",
       "path": "../TradingJournal.Data/TradingJournal.Data.csproj",
       "msbuildProject": "../TradingJournal.Data/TradingJournal.Data.csproj"
+    },
+    "TradingJournal.DB/1.0.0": {
+      "type": "project",
+      "path": "../TradingJournal.DB/TradingJournal.DB.csproj",
+      "msbuildProject": "../TradingJournal.DB/TradingJournal.DB.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3831,6 +3846,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2",
+      "TradingJournal.DB >= 1.0.0",
       "TradingJournal.Data >= 1.0.0"
     ]
   },
@@ -3859,6 +3875,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj": {
+              "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj"
+            },
             "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
               "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
             }
