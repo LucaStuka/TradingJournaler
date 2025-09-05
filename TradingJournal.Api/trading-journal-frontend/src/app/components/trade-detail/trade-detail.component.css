@@ -1,0 +1,27 @@
+.trade-detail {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.trade-detail h2 {
+    color: #333;
+}
+
+.trade-detail p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.trade-detail .trade-info {
+    margin-bottom: 15px;
+}
+
+.trade-detail .trade-info label {
+    font-weight: bold;
+}
+
+.trade-detail .trade-info span {
+    margin-left: 10px;
+}

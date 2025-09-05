@@ -1,0 +1,48 @@
+.trade-list {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.trade-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.trade-item:last-child {
+    border-bottom: none;
+}
+
+.trade-title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.trade-date {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.trade-actions {
+    margin-top: 10px;
+}
+
+.button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.button-delete {
+    background-color: #e74c3c;
+    color: white;
+}
+
+.button-view {
+    background-color: #3498db;
+    color: white;
+}

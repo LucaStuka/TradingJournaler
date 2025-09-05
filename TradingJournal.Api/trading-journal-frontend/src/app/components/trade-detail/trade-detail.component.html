@@ -1,0 +1,14 @@
+<div>
+  <h2>Trade Details</h2>
+  <div *ngIf="trade">
+    <p><strong>ID:</strong> {{ trade.id }}</p>
+    <p><strong>Symbol:</strong> {{ trade.symbol }}</p>
+    <p><strong>Quantity:</strong> {{ trade.quantity }}</p>
+    <p><strong>Price:</strong> {{ trade.price }}</p>
+    <p><strong>Date:</strong> {{ trade.date | date }}</p>
+  </div>
+  <div *ngIf="!trade">
+    <p>No trade details available.</p>
+  </div>
+  <button (click)="goBack()">Back to Trade List</button>
+</div>
