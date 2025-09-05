@@ -14,6 +14,7 @@
           "Microsoft.EntityFrameworkCore.Design": "8.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.0",
           "Swashbuckle.AspNetCore": "6.6.2",
+          "TradingJournal.DB": "1.0.0",
           "TradingJournal.Data": "1.0.0"
         },
         "runtime": {
@@ -891,6 +892,14 @@
         "runtime": {
           "TradingJournal.Data.dll": {}
         }
+      },
+      "TradingJournal.DB/1.0.0": {
+        "dependencies": {
+          "TradingJournal.Data": "1.0.0"
+        },
+        "runtime": {
+          "TradingJournal.DB.dll": {}
+        }
       }
     }
   },
@@ -1440,6 +1449,11 @@
       "hashPath": "system.threading.tasks.extensions.4.6.0.nupkg.sha512"
     },
     "TradingJournal.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TradingJournal.DB/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
