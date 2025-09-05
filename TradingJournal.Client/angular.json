@@ -54,7 +54,8 @@
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
-            }
+            },
+            "polyfills": ["src/polyfills.ts"]
           },
           "configurations": {
             "production": {
