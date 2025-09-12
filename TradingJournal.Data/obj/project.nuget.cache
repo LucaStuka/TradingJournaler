@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P0sRf8Tl2ZynVYK0zTjW60vvqPTHCt73bgL5wiLhNOBQtJLJuZvuvPiKwkeyQZmL86DS+Xk07f/3TlSOqCDtNw==",
+  "dgSpecHash": "Dfzh8ywKs+6pzQdKIlcqYta5Gii+Lp0YSPkzZ5Vhb9ACRCQv5nhsyGqn9nYHMpA1+d6MpaVVUn7SwNnvDfBpRw==",
   "success": true,
-  "projectFilePath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+  "projectFilePath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
   "expectedPackageFiles": [
     "/home/DarrylParker/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/DarrylParker/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

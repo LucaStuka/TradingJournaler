@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kiikvLZ5lBdHZMPgTbJ4eAoPd5PCocu9QWF+opyLMICv7EI83j2D6mN1g77uosMsxxhavzLA2gt7PB+nZehwA==",
+  "dgSpecHash": "o9mZzAGAqfoZVrVGMtQZZSRmj9zY/SwIhgQIdKQfl9ujMUXaMT7TK+w4SIg8NEh4G/5U7EhvZZrlUJ8iIRG3/A==",
   "success": true,
-  "projectFilePath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
+  "projectFilePath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Api/TradingJournal.Api.csproj",
   "expectedPackageFiles": [
     "/home/DarrylParker/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/DarrylParker/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.3.0/microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

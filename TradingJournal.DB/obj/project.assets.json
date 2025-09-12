@@ -1203,11 +1203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
+      "projectUniqueName": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
       "projectName": "TradingJournal.DB",
-      "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
+      "projectPath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
       "packagesPath": "/home/DarrylParker/.nuget/packages/",
-      "outputPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/obj/",
+      "outputPath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.DB/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/DarrylParker/.nuget/NuGet/NuGet.Config"
@@ -1222,8 +1222,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
-              "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
+            "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj": {
+              "projectPath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj"
             }
           }
         }

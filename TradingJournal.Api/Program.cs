@@ -24,10 +24,10 @@ if (app.Environment.IsDevelopment())
 
 
 // Zugriff fürs Frontend
-// app.UseCors(options =>
-// options.WithOrigins("http://localhost:AdresseDann")
-// .AllowAnyMethod()
-// .AllowAnyHeader());
+app.UseCors(options =>
+options.WithOrigins("http://localhost:4200")
+.AllowAnyMethod()
+.AllowAnyHeader());
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

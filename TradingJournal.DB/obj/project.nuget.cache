@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CyqMQ+aqAg7ZyhLvjMmb8/fAtUmVcG1Qfaotd363oPK4oxtXUKokVLmA61eWtk5pIc9eKN1Ag+xyg1KXf+r0SA==",
+  "dgSpecHash": "RH/IQEDoy648GMmM1ccc1Mt5tYgo87D+2UPgxjdafwBL61CNwXY2JwBVZo1E2YxHiU3mS+NP1SwfDZYKfKAuCw==",
   "success": true,
-  "projectFilePath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
+  "projectFilePath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.DB/TradingJournal.DB.csproj",
   "expectedPackageFiles": [
     "/home/DarrylParker/.nuget/packages/microsoft.data.sqlite.core/8.0.0/microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "/home/DarrylParker/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

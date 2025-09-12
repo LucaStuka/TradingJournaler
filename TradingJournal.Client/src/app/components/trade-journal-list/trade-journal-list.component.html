@@ -1,0 +1,18 @@
+<div class="card">
+    <div class="card-body">
+        <div class="list-group">
+            <div *ngFor="let trade of trades">
+                <strong>Id: </strong>{{trade.id}}
+                <strong>Symbol: </strong>{{trade.symbol}}
+                <strong>Lots: </strong>{{trade.lots}}
+                <strong>RisikoProzent: </strong>{{trade.risikoProzent}}
+                <strong>RisikoEuro: </strong>{{trade.risikoEuro}}
+                <strong>ProfitProzent: </strong>{{trade.profitProzent}}
+                <strong>ProfitEuro: </strong>{{trade.profitEuro}}
+                <strong>Gedanken: </strong>{{trade.gedanken}}
+                <strong>DailyBias: </strong>{{trade.dailyBias}}
+                <strong>Datum: </strong>{{trade.datum}}
+            </div>
+        </div>
+    </div>
+</div>

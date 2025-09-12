@@ -2532,11 +2532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+      "projectUniqueName": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
       "projectName": "TradingJournal.Data",
-      "projectPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
+      "projectPath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/TradingJournal.Data.csproj",
       "packagesPath": "/home/DarrylParker/.nuget/packages/",
-      "outputPath": "/home/DarrylParker/Documents/Codes/C#/TradingJournal/TradingJournal.Data/obj/",
+      "outputPath": "/home/DarrylParker/Documents/Codes/Csharp/TradingJournal/TradingJournal.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/DarrylParker/.nuget/NuGet/NuGet.Config"
